@@ -1,0 +1,24 @@
+{
+  "name": "pagerun-httperror",
+  "version": "0.9.1",
+  "description": "Catch all http error such as: 4xx, 5xx..",
+  "main": "httperror",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yaniswang/pagerun-httperror.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaniswang/pagerun-httperror/issues"
+  },
+  "keywords": [
+    "pagerun",
+    "http",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Yanis Wang",
+  "license": "MIT"
+}
