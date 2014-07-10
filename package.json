@@ -1,6 +1,6 @@
 {
   "name": "pagerun-httperror",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Catch all http error such as: 4xx, 5xx..",
   "main": "httperror",
   "dependencies": {

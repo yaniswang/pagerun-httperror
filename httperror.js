@@ -8,7 +8,7 @@ module.exports = function(pagerun){
             if(bOpenUrl === true){
                 var responseCode = httpData.responseCode;
                 if(/^[45]\d\d$/.test(responseCode)){
-                    self.result({
+                    self.error({
                         url: httpData.url,
                         code: responseCode
                     });
